@@ -1,0 +1,32 @@
+/* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+body {
+    overflow: hidden;
+    font-family: Verdana, sans-serif;
+}
+.footer-text {
+    position: fixed;
+    bottom: 12px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    color: #eee;
+    text-shadow: 0 0 2px white;
+    pointer-events: none;
+}
+.footer-text span {
+    display: block;
+    margin-top: 4px;
+    font-size: 11px;
+    color: #aaa;
+}
