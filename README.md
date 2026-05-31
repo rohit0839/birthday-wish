@@ -6,7 +6,7 @@ A simple static website that asks visitors for their name and displays a persona
 
 Visit the live site:
 
-https://yourusername.github.io/birthday-wish/
+https://rohit0839.github.io/birthday-wish/
 
 ## Disclaimer
 
