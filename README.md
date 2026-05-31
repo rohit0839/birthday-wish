@@ -3,10 +3,9 @@
 A simple static website that asks visitors for their name and displays a personalized birthday greeting.
 
 ## Demo
+[https://rohit0839.github.io/birthday-wish/](https://rohit0839.github.io/birthday-wish/)
 
-Visit the live site:
-
-https://rohit0839.github.io/birthday-wish/
+![Image](Image.png)
 
 ## Disclaimer
 
